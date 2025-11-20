@@ -10,9 +10,6 @@ import javax.swing.*;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;
 import javax.swing.border.TitledBorder;
-import src.Avion;
-
-
 
 // Interfaz gráfica más completa basada en la imagen proporcionada.
 public class MainUI extends JFrame {

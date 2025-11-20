@@ -1,4 +1,4 @@
-// Clase Pasajero simplificada para principiantes.
+
 public class Pasajero {
     private String nombre;
     private String apellidos;
